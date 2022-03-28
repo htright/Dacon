@@ -1,0 +1,8 @@
+#datasets
+*/data/
+
+#jupyter notebook
+*/.ipnyb_checkpoints/
+
+#csv
+*.csv
